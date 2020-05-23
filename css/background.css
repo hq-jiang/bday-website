@@ -23,5 +23,6 @@
 }
 
 .bg-blue {
-  background-color: lightblue;
+  background-color: CornflowerBlue;
+  border-radius: 10px;
 }

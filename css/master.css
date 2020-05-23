@@ -6,7 +6,7 @@
 /* Project wide settings */
 body {
   font: normal 16px sans-serif, Arial;
-  background-color: linen;
+  background-color: azure;
 }
 
 header {
@@ -126,4 +126,9 @@ footer {
   .nav:hover {
     font-size: 18px;
   }
+}
+
+figcaption {
+  font-size: 20px;
+  color: CornflowerBlue;
 }
