@@ -19,7 +19,7 @@ header {
   margin-right: 20px;
   margin-top: 20px;
   margin-bottom: 10px;
-  font-size: 60px;
+  font-size: 45px;
   grid-area: head;
 }
 
@@ -131,4 +131,5 @@ footer {
 figcaption {
   font-size: 20px;
   color: CornflowerBlue;
+  margin: 5px;
 }
